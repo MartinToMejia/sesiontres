@@ -1,0 +1,49 @@
+.header-container-padre {
+    display: inline;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    font-family: sans-serif;
+}
+.icono {
+    display: inline-block;
+}
+.barra-navegacion {
+    display: inline-block;
+    width: 70%;
+    text-align: center;
+    color: #025157;
+}   
+.elemento {
+    display: inline;
+    margin-right: 25px;
+    margin-left: 25px;
+}  
+.botones {
+    display: inline-block;
+    width: 15%;
+    text-align: right;
+    font-size: 14px;
+}  
+.botones > * {
+    margin-right: 10px;
+    margin-left: 10px;
+}  
+.botones a {
+    color: #67b54b;
+}  
+.botones button {
+    color: white;
+    background-color: #67b54b;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: 0;
+    border-radius: 5px;
+}
+
+  

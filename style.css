@@ -1,3 +1,6 @@
+body {
+    background-color: cadetblue;
+}
 .header-container-padre {
     display: inline;
     margin-top: 40px;
